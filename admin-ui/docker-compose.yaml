@@ -1,0 +1,18 @@
+version: '3.0'
+
+services:
+
+  django-vue-ui-std:
+
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    image: django-vue-ui-image-std
+
+    container_name: django-vue-ui-container-std
+
+    ports:
+      - "8101:80"
+
+    restart: always

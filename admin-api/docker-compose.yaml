@@ -1,0 +1,21 @@
+version: '3.0'
+
+services:
+
+  django-vue-api-std:
+
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    image: django-vue-api-image-std
+
+    container_name: django-vue-api-container-std
+
+    volumes:
+      - /opt/django-vue-admin/logs:/app/logs
+
+    ports:
+      - "8090:8085"
+
+    restart: always

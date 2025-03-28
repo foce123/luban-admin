@@ -1,0 +1,9 @@
+.idea
+/chrome
+/logs
+/meta
+/venv
+/static
+*.pyc
+/excel
+/migrations
