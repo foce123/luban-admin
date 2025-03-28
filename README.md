@@ -1,22 +1,14 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">luban-admin</h1>
 
 <p align="center">
-	<a href="https://gitee.com/mengyinggitee/sanic-vue-admin/stargazers"><img src="https://gitee.com/mengyinggitee/sanic-vue-admin/badge/star.svg"></a>
-	<a href="https://gitee.com/mengyinggitee/sanic-vue-admin/members"><img src="https://gitee.com/mengyinggitee/sanic-vue-admin/badge/fork.svg"></a>
-	<a><img src="https://img.shields.io/badge/QQ-652044581-green"></a>
-	<a><img src=https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-my652044581-brightgreen"></a>	
+	<a><img src=https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-evzhk-brightgreen"></a>	
 	<a><img src=https://img.shields.io/badge/python-3.70-yellow"></a>
 </p>
-
-### 在线体验
-演示地址：[http://47.109.25.58:8101/#/login](http://47.109.25.58:8101/#/login)
-
-账号密码：superAdmin/superAdmin
 
 
 ### 项目介绍
 
-若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。[若依框架地址]([Vue3](https://v3.cn.vuejs.org))，
+若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用
 但目前主流的若以框架是基于SpringBoot的java开发语言，企业开发前端常用的是若依框架，而后端没有一个属于python版本的后端，因此萌生了调试一套适合python程序员的快速开发框架，删除广告页面和日常开发者不必要的功能，只保留项目的最核心的配置模块，减少初始化的方式，做到入手既可以开发功能
 
 python主流框架请查看不同的分支（django+mysql，flask+mongo，sanic-mongo）， 其他python框架将持续更新........
