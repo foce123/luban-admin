@@ -1,9 +1,4 @@
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">django-ruoyi-admin</h1>
-<h4 align="center">基于django+ 若依（Vue3版本）快速开发框架（v1.0.1）</h4>
-
-<p align="center">
-	👉 <a target="_blank" href="http://47.109.25.58:8028/">个人网站：http://47.109.25.58:8028/</a> 👈
-</p>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">luban-admin</h1>
 
 <p align="center">
 	<a href="https://gitee.com/mengyinggitee/sanic-vue-admin/stargazers"><img src="https://gitee.com/mengyinggitee/sanic-vue-admin/badge/star.svg"></a>
